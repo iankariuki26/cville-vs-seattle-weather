@@ -1,0 +1,15 @@
+.chalice/deployments/
+.chalice/venv/
+layer-build
+full-plot-layer.zip
+input_payload.json
+output.txt
+seattleweather.py
+venv
+.venv
+numpy-layer.zip
+.chalice/vendor
+.chalice/deployed
+*.pyc
+.chalice/config.json
+.chalice/policy-dev.json
